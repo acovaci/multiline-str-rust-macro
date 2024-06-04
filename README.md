@@ -1,5 +1,9 @@
 # Multiline str macro
 
+![Crates.io License](https://img.shields.io/crates/l/multiline-str)
+![Crates.io Version](https://img.shields.io/crates/v/multiline-str)
+![Crates.io Downloads](https://img.shields.io/crates/d/multiline-str)
+
 This is a simple multiline string Rust macro, which allows you to write multiline strings in a more
 readable way. It allows for any combination of space-joined and newline-joined strings.
 

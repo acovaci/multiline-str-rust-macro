@@ -2,5 +2,23 @@
 name = "multiline-str"
 version = "0.1.0"
 edition = "2021"
+description = "A simple multiline string Rust macro, which allows you to write multiline strings in a more readable way. It allows for any combination of space-joined and newline-joined strings."
+license-file = "LICENSE"
+readme = "README.md"
+repository = "https://github.com/acovaci/multiline-str-rust-macro"
+keywords = [
+    "macro",
+    "string",
+    "str",
+    "multiline",
+    "developer",
+    "tools",
+    "multiple",
+    "lines",
+]
+categories = ["development-tools", "macros"]
+
+[lib]
+crate-type = ["lib"]
 
 [dependencies]

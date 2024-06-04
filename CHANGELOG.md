@@ -13,6 +13,12 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ### Removed
 
+## [0.1.1] - 2024-06-04
+
+### Fixed
+
+- The license key showed up as non-standard instead of `MIT`. Should be fixed now.
+
 ## [0.1.0] - 2024-06-04
 
 ### Added
@@ -20,4 +26,5 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 - Initial implementation of the project.
 
 [0.1.0]: https://github.com/acovaci/multiline-str-rust-macro/releases/tag/v0.1.0
-[unreleased]: https://github.com/acovaci/multiline-str-rust-macro/compare/v0.1.0...HEAD
+[0.1.1]: https://github.com/acovaci/multiline-str-rust-macro/releases/compare/v0.1.0...v0.1.1
+[unreleased]: https://github.com/acovaci/multiline-str-rust-macro/compare/v0.1.1...HEAD

@@ -1,6 +1,6 @@
 [package]
 name = "multiline-str"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 description = "A simple multiline string Rust macro, which allows you to write multiline strings in a more readable way. It allows for any combination of space-joined and newline-joined strings."
 license = "MIT"

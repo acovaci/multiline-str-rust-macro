@@ -6,16 +6,7 @@ description = "A simple multiline string Rust macro, which allows you to write m
 license-file = "LICENSE"
 readme = "README.md"
 repository = "https://github.com/acovaci/multiline-str-rust-macro"
-keywords = [
-    "macro",
-    "string",
-    "str",
-    "multiline",
-    "developer",
-    "tools",
-    "multiple",
-    "lines",
-]
+keywords = ["macro", "string", "str", "multiline", "text"]
 categories = ["development-tools", "macros"]
 
 [lib]
